@@ -4,7 +4,7 @@
 #
 Name     : rubygem-http-cookie
 Version  : 1.0.2
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/http-cookie-1.0.2.gem
 Source0  : https://rubygems.org/downloads/http-cookie-1.0.2.gem
 Summary  : No detailed summary available
